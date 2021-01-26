@@ -132,5 +132,6 @@ cherry-pick-d866af575997.patch
 cherry-pick-da9b5ec032ad.patch
 cherry-pick-861253f1de98.patch
 cherry-pick-3ca3d70c7af5.patch
+cherry-pick-d74ba931c4b7.patch
 ots_backport_maxp_sanitization.patch
 ots_backport_of_glyf_guard_access_to_maxp_version_1_field.patch
